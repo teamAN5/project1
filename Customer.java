@@ -2,13 +2,12 @@ class Customer
 {
   int cid;
   String cname;
-  void get()
+ public int getCustId
+ {
+   get cname;
+ }
+  public String getCustName
   {
-  }
-  void put()
-  {
-  }
-  void mazzk()
-  {
+  return cname;
   }
 }
