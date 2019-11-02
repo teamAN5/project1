@@ -8,4 +8,5 @@ class Customer
   void put()
   {
   }
+  System.out.println("printing");
 }
