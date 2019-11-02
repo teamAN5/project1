@@ -8,7 +8,11 @@ class Customer
   void put()
   {
   }
+
   main()
   {
   }
+
+  System.out.println("printing");
+
 }
