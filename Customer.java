@@ -17,6 +17,5 @@ class Customer
 public void getdetails()
 {
 }
-waah ji waah
-kya khub lati hu badi sundar dekhti hu.
+
 }
