@@ -14,5 +14,8 @@ class Customer
   }
 
   System.out.println("printing");
+public void getdetails()
+{
+}
 
 }
