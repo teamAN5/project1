@@ -1,9 +1,0 @@
-OMG
-
-class Customer
-{
-
-	int empid;
-	String eName;
-
-}
