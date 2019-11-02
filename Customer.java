@@ -8,4 +8,7 @@ class Customer
   void put()
   {
   }
+  main()
+  {
+  }
 }
